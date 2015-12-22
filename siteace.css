@@ -1,0 +1,8 @@
+/* CSS declarations go here */
+.hidden_div{
+	display:none;
+}
+#comment{
+	max-width: 30%;
+	height: 50px;
+}
